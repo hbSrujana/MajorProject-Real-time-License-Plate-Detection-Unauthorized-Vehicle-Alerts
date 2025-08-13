@@ -1,0 +1,5 @@
+train: C:/Users/hbsru/OneDrive/Pictures/Documents/personal/Major project/Major project code/dataset3/images
+val: C:/Users/hbsru/OneDrive/Pictures/Documents/personal/Major project/Major project code/dataset3/images
+
+nc: 1
+names: ['license_plate']
