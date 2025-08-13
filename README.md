@@ -71,6 +71,6 @@ This project implements a smart surveillance system that automatically detects v
 ---
 
 ## 📌 Conclusion
-This system effectively integrates **real-time object detection**, **OCR**, and **database alerts** to create a reliable unauthorized vehicle monitoring solution suitable for campuses, institutions, and gated communities.
+This system effectively integrates **real-time object detection**, **OCR**, and **database alerts** to create a reliable unauthorized vehicle monitoring solution.
 
 
